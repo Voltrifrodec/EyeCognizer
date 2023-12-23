@@ -1,0 +1,49 @@
+{
+    "questions": [
+        {
+            "id": 0,
+            "question": "What is the capital of France?",
+            "options": [
+                "Berlin",
+                "Paris"
+            ],
+            "correctOption": 1
+        },
+        {
+            "id": 1,
+            "question": "Who wrote 'Romeo and Juliet'?",
+            "options": [
+                "William Shakespeare",
+                "Charles Dickens"
+            ],
+            "correctOption": 0
+        },
+        {
+            "id": 2,
+            "question": "Which planet is known as the 'Red Planet'?",
+            "options": [
+                "Earth",
+                "Mars"
+            ],
+            "correctOption": 1
+        },
+        {
+            "id": 3,
+            "question": "What is the largest mammal on Earth?",
+            "options": [
+                "Elephant",
+                "Blue Whale"
+            ],
+            "correctOption": 1
+        },
+        {
+            "id": 4,
+            "question": "In which year did the Titanic sink?",
+            "options": [
+                "1912",
+                "1920"
+            ],
+            "correctOption": 0
+        }
+    ]
+}

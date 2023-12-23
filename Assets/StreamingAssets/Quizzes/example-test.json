@@ -1,0 +1,33 @@
+{
+    "questions": [
+        {
+            "id": 0,
+            "question": "This is test question. Solve: 2 + 2",
+            "options": [
+                "4",
+                "22"
+            ],
+            "correctOption": 0
+        },
+        {
+            "id": 1,
+            "question": "This test usually shows up when the one you started does not exist or have wrong name.",
+            "options": [
+                "Ok, I will fix that.",
+                "Sure, whatever.",
+                "My God, it can talk??!"
+            ],
+            "correctOption": 0
+        },
+        {
+            "id": 0,
+            "question": "This the last question. Answer correctly and you may leave. Or not. The fates in your hand: Do you like this application?",
+            "options": [
+                "Please help, I was abducted by government 6 years ago and I am forced to play this game until-",
+                "Why not, boomer.",
+                "Yes"
+            ],
+            "correctOption": 2
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "questions": [
+        {
+            "id": 0,
+            "question": "Od slova 'by':",
+            "options": [
+                "aby",
+                "čoby"
+            ],
+            "correctOption": 0
+        },
+        {
+            "id": 1,
+            "question": "Od slova 'býk':",
+            "options": [
+                "býček",
+                "býkovec"
+            ],
+            "correctOption": 1
+        },
+        {
+            "id": 2,
+            "question": "Od slova 'byľ':",
+            "options": [
+                "byľka",
+                "bylinkový",
+                "bylina"
+            ],
+            "correctOption": 0
+        },
+        {
+            "id": 3,
+            "question": "Od slova 'bystrý':",
+            "options": [
+                "bystriť",
+                "bystro"
+            ],
+            "correctOption": 1
+        },
+        {
+            "id": 4,
+            "question": "Od slova 'Bytča':",
+            "options": [
+                "Bytčan",
+                "bytčianský"
+            ],
+            "correctOption": 0
+        },
+        {
+            "id": 5,
+            "question": "Od slova 'byť':",
+            "options": [
+                "bytie",
+                "bývať"
+            ],
+            "correctOption": 1
+        },
+        {
+            "id": 6,
+            "question": "Od slova 'bývať':",
+            "options": [
+                "bytový",
+                "bývanie"
+            ],
+            "correctOption": 0
+        },
+        {
+            "id": 7,
+            "question": "Od slova 'byvol':",
+            "options": [
+                "byvolí",
+                "byvolie"
+            ],
+            "correctOption": 0
+        },
+        {
+            "id": 8,
+            "question": "Od slova 'bydlo':",
+            "options": [
+                "obydlie",
+                "obytný"
+            ],
+            "correctOption": 0
+        },
+        {
+            "id": 9,
+            "question": "Od slova 'dobyť':",
+            "options": [
+                "dobývať",
+                "vydobyť"
+            ],
+            "correctOption": 1
+        }
+    ]
+}

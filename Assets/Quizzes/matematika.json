@@ -1,0 +1,49 @@
+{
+    "questions": [
+        {
+            "id": 0,
+            "question": "2 + 3 =",
+            "options": [
+                "4",
+                "5"
+            ],
+            "correctOption": 1
+        },
+        {
+            "id": 1,
+            "question": "8 - 6 =",
+            "options": [
+                "2",
+                "3"
+            ],
+            "correctOption": 0
+        },
+        {
+            "id": 2,
+            "question": "4 × 7 =",
+            "options": [
+                "24",
+                "28"
+            ],
+            "correctOption": 1
+        },
+        {
+            "id": 3,
+            "question": "15 ÷ 3 =",
+            "options": [
+                "3",
+                "5"
+            ],
+            "correctOption": 1
+        },
+        {
+            "id": 4,
+            "question": "10 + 12 - 5 =",
+            "options": [
+                "17",
+                "19"
+            ],
+            "correctOption": 0
+        }
+    ]
+}
