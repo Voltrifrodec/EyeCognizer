@@ -1,6 +1,6 @@
 # EyeCognizer
 
-Unity 2D aplikácia pre riešenie jednoduchých kvízov pomocou zraku.
+Unity 2D aplikácia pre riešenie jednoduchých kvízov pomocou zraku s Tobii Eye Tracker.
 
 
 ## Vytváranie nových kvízov
